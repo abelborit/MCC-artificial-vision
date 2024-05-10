@@ -18,3 +18,8 @@
 2. artificial-vision-adjustment-brightness-and-contrast-of-images
 3. artificial-vision-histogram-and-equalization
 4. computer-vision-convolutions
+
+## 02-projects
+
+1. artificial-vision-template-matching-cpu-python
+2. artificial-vision-template-matching-cuda-gpu-c++
