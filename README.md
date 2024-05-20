@@ -23,3 +23,8 @@
 
 1. artificial-vision-template-matching-cpu-python
 2. artificial-vision-template-matching-cuda-gpu-c++
+
+## final-project
+
+1. Articulo_TrabajoFinalVA_VisionTransformer.pdf
+2. Vision_Transformer_Celulas_Manual_GPU_Final_v3.ipynb
